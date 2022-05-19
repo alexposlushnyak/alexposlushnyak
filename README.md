@@ -23,4 +23,4 @@
 - 🟩 [Lazyline – Innovative Lazy-Load & LQIP WordPress Plugin](https://codecanyon.net/item/lazyline-innovative-lazyload-lqip-wordpress-plugin/35468345)
 - 🟧 [Nitrol – Multifunctional Optimization WordPress Plugin](https://codecanyon.net/item/nitrol-multifunctional-optimization-wordpress-plugin/35825640)
 - 🔵 [TechRank](https://www.techrank.io/)
-- 🟡 [CreditRegistry](https://creditregistry.net/)
+- And much much more...
