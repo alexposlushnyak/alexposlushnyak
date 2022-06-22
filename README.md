@@ -11,10 +11,10 @@
 
 ##### BIO
 
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.scss`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **WordPress Community**, **UpWork**, **Envato**
-- 💬 Ping me about **wordpress**, **design**, **branding**, **development**, **api integration**, **design thinking**
-- 📫 Reach me: [contact.alexander.poslushnyak@gmail.com](contact.alexander.poslushnyak@gmail.com)
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.scss`, `.svg`, `.psd`, `.ai`;
+- 🌍 I'm mostly active within the **WordPress Community**, **UpWork**, **Envato**;
+- 💬 Ping me about **wordpress**, **design**, **branding**, **development**, **api integration**, **design thinking**;
+- 📫 Reach me: [contact.alexander.poslushnyak@gmail.com](contact.alexander.poslushnyak@gmail.com);
 
 ##### LATEST PROJECTS
 - 🟥 [Qreatix – Interactive Portfolio WordPress Theme](https://themeforest.net/item/qreatix-interactive-portfolio-wordpress-theme/31728964)
