@@ -5,9 +5,8 @@
 ##### NOW
 
 - 🧨 Developing an innovative roadmap plugin for WordPress;
-- 🍵 Developing a powerful **jkdevkit** framework for WordPress;
-- ⌛ Part-time in [Mobinner](https://mobinner.com/);
-- ⌛ Part-time in [Neochrome](https://neochro.me/);
+- 🧨 Developing an innovative roadmap plugin for WordPress;
+- 🍵 Developing a more than 10 premium themes for themeforest;
 
 ##### BIO
 
