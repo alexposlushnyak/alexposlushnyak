@@ -5,7 +5,7 @@
 ##### NOW
 
 - 🧨 Developing an innovative roadmap plugin for WordPress;
-- 🧨 Developing an innovative roadmap plugin for WordPress;
+- 🧨 Developing an powerful multipurpose framework for WordPress;
 - 🍵 Developing a more than 10 premium themes for themeforest;
 
 ##### BIO
