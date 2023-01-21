@@ -21,5 +21,4 @@
 - 🟪 [Osmond - Ecommerce Magazine WordPress Theme](https://themeforest.net/item/osmond-ecommerce-magazine-wordpress-theme/34061026)
 - 🟩 [Lazyline – Innovative Lazy-Load & LQIP WordPress Plugin](https://codecanyon.net/item/lazyline-innovative-lazyload-lqip-wordpress-plugin/35468345)
 - 🟧 [Nitrol – Multifunctional Optimization WordPress Plugin](https://codecanyon.net/item/nitrol-multifunctional-optimization-wordpress-plugin/35825640)
-- 🔵 [TechRank](https://www.techrank.io/)
 - And much much more...
