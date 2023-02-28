@@ -14,7 +14,8 @@
 - 🌍 I'm mostly active within the **WordPress Community**, **UpWork**, **Envato**;
 - 💬 Ping me about **wordpress**, **design**, **branding**, **development**, **api integration**, **design thinking**;
 - 📫 Reach me: [contact.alexander.poslushnyak@gmail.com](contact.alexander.poslushnyak@gmail.com);
-- 💼 Themeforest: [jkdevstudio](https://themeforest.net/user/jkdevstudio) [knightleystudio](https://themeforest.net/user/knightleystudio);
+- 💼 Themeforest 1: [jkdevstudio](https://themeforest.net/user/jkdevstudio);
+- 💼 Themeforest 2: [knightleystudio](https://themeforest.net/user/knightleystudio);
 
 ##### LATEST PROJECTS
 - 🟥 [Qreatix – Interactive Portfolio WordPress Theme](https://themeforest.net/item/qreatix-interactive-portfolio-wordpress-theme/31728964)
