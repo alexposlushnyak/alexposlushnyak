@@ -5,8 +5,8 @@
 ##### NOW
 
 - 🧨 Developing an innovative roadmap plugin for WordPress;
-- 🧨 Developing an powerful multipurpose framework for WordPress;
-- 🍵 Developing a more than 10 premium themes for themeforest;
+- 🧨 Developing a powerful multipurpose framework for WordPress;
+- 🍵 Developing more than 10 premium themes for Themeforest;
 
 ##### BIO
 
@@ -19,6 +19,8 @@
 
 ##### LATEST PROJECTS
 - 🟠 [Trends - Tuio](https://trends.tuio.ro/)
+- 🟣 [Herbie Wilde - Plant-based Superfood for Dogs](https://herbiewilde.co.uk/)
+- 🟤 [ToeFishArt - Hand Painted Furniture](https://toefishart.com/)   
 - 🔵 [Ahnimation – Design, Motion Graphics & UX/UI](https://ahnimation.com/)
 - 🟢 [Norman's Nursery – Wholesale Nursery](https://www.normansnursery.com/)
 - 🟡 [TechRank - On-Demand Tech Screening Experts](https://www.techrank.io/)
