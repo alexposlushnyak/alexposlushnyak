@@ -12,7 +12,7 @@
 
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.scss`, `.svg`, `.psd`, `.ai`;
 - 🌍 I'm mostly active within the **WordPress Community**, **UpWork**, **Envato**;
-- 💬 Ping me about **wordpress**, **backend**, **design**, **branding**, **development**, **api integration**, **design thinking**;
+- 💬 Ping me about **wordpress**, **backend**, **design**, **branding**, **development**, **AI**, **api integration**, **design thinking**;
 - 📫 Reach me: [contact.alexander.poslushnyak@gmail.com](contact.alexander.poslushnyak@gmail.com);
 - 💼 Themeforest 1: [jkdevstudio](https://themeforest.net/user/jkdevstudio);
 - 💼 Themeforest 2: [knightleystudio](https://themeforest.net/user/knightleystudio);
