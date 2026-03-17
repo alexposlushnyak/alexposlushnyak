@@ -7,7 +7,7 @@
 `Laravel` `WordPress` `DevOps` `SaaS`
 
 [![Email](https://img.shields.io/badge/oleksandr@jkdevstudio.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:oleksandr@jkdevstudio.com)
-[![Web](https://img.shields.io/badge/jkdevstudio.com-black?style=flat-square&logo=google-chrome&logoColor=white)](https://jkdevstudio.com)
+[![Web](https://img.shields.io/badge/hub.jkdevstudio.com-black?style=flat-square&logo=google-chrome&logoColor=white)](https://hub.jkdevstudio.com)
 [![Upwork](https://img.shields.io/badge/Top%20Rated%20·%20100%25%20Success-black?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/alexposlushnyak)
 
 </div>
