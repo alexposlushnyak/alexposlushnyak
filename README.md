@@ -93,7 +93,7 @@ Vue.js, React, vanilla ES6+. Vite.js, Webpack. Tailwind CSS, Bootstrap, SCSS/Sas
 
 | Project | Description | Status |
 |---------|------------|--------|
-| **[JKDevStudio Hub](https://hub.jkdevstudio.com)** | Laravel SaaS - license provisioning, update delivery, docs engine, support system, roadmap voting. Multi-tenant, self-hosted option, API-first. | `active` |
+| **[jkdevstudio Hub](https://hub.jkdevstudio.com)** | Laravel SaaS - license provisioning, update delivery, docs engine, support system, roadmap voting. Multi-tenant, self-hosted option, API-first. | `active` |
 | **Stealth Startup** | Multiplayer interactive platform with real-time social features. Browser-based. | `early stage` |
 | **50+ Premium Products** | Active development and support across multiple Envato accounts and partner brands. Themes, plugins, templates with dedicated update pipelines. | `ongoing` |
 
