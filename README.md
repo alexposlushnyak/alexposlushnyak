@@ -14,7 +14,7 @@
 
 ---
 
-8+ years building web products. Running **[JK Dev Studio](https://jkdevstudio.com)** — developing, maintaining and supporting **50+ premium products** across multiple Envato accounts and partner brands. Available for freelance — primarily direct clients, also via Upwork.
+10+ years building web products. Running **[jkdevstudio](https://hub.jkdevstudio.com)** - developing, maintaining and supporting **50+ premium products** across multiple Envato accounts and partner brands. Available for freelance - primarily direct clients, also via Upwork.
 
 ---
 
@@ -64,25 +64,25 @@
 ### ⚡ Expertise
 
 <details>
-<summary><b>Laravel & PHP</b> — SaaS architecture, API design, payment systems</summary>
+<summary><b>Laravel & PHP</b> - SaaS architecture, API design, payment systems</summary>
 <br>
 Multi-tenancy, service/repository patterns, custom middleware, request validation pipelines. Stripe integration with webhook handlers, subscription billing, license provisioning. REST API design and versioning, rate limiting, API resources. Queue workers, job chaining, failed job handling, retry strategies. Task scheduling, event-driven architecture, observers, broadcasting via WebSockets. Custom Mailable classes, notification channels. Complex Eloquent relationships, query scoping, raw query optimization. Database migrations, seeders, factories. Custom Artisan commands. PHPUnit testing. Blade, Livewire, Inertia.js. Composer package development.
 </details>
 
 <details>
-<summary><b>WordPress</b> — Elite Envato author, deep-level custom development</summary>
+<summary><b>WordPress</b> - Elite Envato author, deep-level custom development</summary>
 <br>
 Custom theme and plugin architecture from scratch. Advanced WooCommerce — custom checkout flows, payment gateway integrations, subscription logic, license key management, order workflow automation. Custom post types, taxonomies, REST API endpoints with auth. ACF Pro programmatic field registration. WP-CLI automation. Performance optimization — PHP-FPM tuning, object caching, transient API, query profiling. Security hardening, bot protection, WAF configuration. XML/JSON API import handlers with sync systems. Multisite. Headless setups with decoupled frontends.
 </details>
 
 <details>
-<summary><b>DevOps & Infrastructure</b> — servers, deployment, monitoring</summary>
+<summary><b>DevOps & Infrastructure</b> - servers, deployment, monitoring</summary>
 <br>
 Linux administration (Ubuntu/Debian). Nginx/Apache config, SSL, reverse proxy. Cloudflare WAF rules, rate limiting, bot management, caching, DNS. Docker for local and production. CI/CD pipelines. SSH deployment workflows. Cron management and debugging. Staging/production environments. Database backup strategies. PHP-FPM slow log analysis, error tracking.
 </details>
 
 <details>
-<summary><b>Frontend</b> — modern JS, animation systems, responsive UI</summary>
+<summary><b>Frontend</b> - modern JS, animation systems, responsive UI</summary>
 <br>
 Vue.js, React, vanilla ES6+. Vite.js, Webpack. Tailwind CSS, Bootstrap, SCSS/Sass, BEM. GSAP/TweenMax animations, Barba.js SPA transitions. AJAX interfaces, real-time UI. Cross-browser, responsive, pixel-precise layouts.
 </details>
@@ -93,7 +93,7 @@ Vue.js, React, vanilla ES6+. Vite.js, Webpack. Tailwind CSS, Bootstrap, SCSS/Sas
 
 | Project | Description | Status |
 |---------|------------|--------|
-| **[JKDevStudio Hub](https://hub.jkdevstudio.com)** | Laravel SaaS — license provisioning, update delivery, docs engine, support system, roadmap voting. Multi-tenant, self-hosted option, API-first. | `active` |
+| **[JKDevStudio Hub](https://hub.jkdevstudio.com)** | Laravel SaaS - license provisioning, update delivery, docs engine, support system, roadmap voting. Multi-tenant, self-hosted option, API-first. | `active` |
 | **Stealth Startup** | Multiplayer interactive platform with real-time social features. Browser-based. | `early stage` |
 | **50+ Premium Products** | Active development and support across multiple Envato accounts and partner brands. Themes, plugins, templates with dedicated update pipelines. | `ongoing` |
 
