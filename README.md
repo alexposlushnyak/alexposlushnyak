@@ -1,71 +1,43 @@
-# 👋 Welcome to My GitHub Profile!
+# Oleksandr Poslushnyak
 
-I'm a **Full Stack Developer** passionate about building innovative products and contributing to the open-source community. Currently focused on creating SaaS solutions with Laravel and modern DevOps practices.
+**Senior Full-Stack Developer** · Laravel · WordPress · DevOps
 
-## 🚀 About Me
-
-I'm a full-stack developer specializing in **PHP and Laravel** ecosystems with strong DevOps expertise. My mission is to build scalable, high-quality products while actively contributing to open-source projects. I combine technical excellence with entrepreneurial thinking to create solutions that solve real problems.
-
-## 💻 Core Tech Stack
-
-**Backend:**
-- PHP
-- Laravel (Framework of Choice)
-- REST APIs & Microservices
-
-**DevOps & Infrastructure:**
-- Docker & containerization
-- Server management & automation
-- CI/CD pipelines
-- Self-hosted solutions
-
-**Other Technologies:**
-- WordPress (Custom development & optimization)
-- Database design (MySQL, PostgreSQL)
-- Git & GitHub
-
-## 🎯 Current Focus
-
-I'm building a **Laravel-based SaaS startup** - a personalized hub for managing premium web products from various marketplaces with self-hosted capabilities. This project combines:
-- Multi-marketplace integration
-- Advanced product management features
-- Enterprise-grade reliability
-- Flexible deployment options (cloud & self-hosted)
-
-## 🏆 What I'm Working On
-
-- 🔨 **SaaS Product Development** - Building scalable Laravel applications with focus on user experience and reliability
-- 🤝 **Open Source Contributions** - Contributing to projects that align with my values and the community's needs
-- 🚀 **DevOps Excellence** - Implementing best practices in deployment, monitoring, and infrastructure management
-
-## 🌱 Currently Learning & Exploring
-
-- Advanced Laravel patterns and optimization techniques
-- Kubernetes & container orchestration
-- Modern SaaS architecture best practices
-- Product management & startup growth strategies
-
-## 🎨 Projects (Coming Soon)
-
-I'm actively developing several projects. More details coming soon as I transition to public releases and open-source contributions.
-
-## 📫 Connect With Me
-
-Feel free to reach out if you're interested in collaborating, discussing tech, or exploring partnership opportunities:
-
-- **GitHub:** [@alexposlushnyak](https://github.com/alexposlushnyak)
-- **Email:** [oleksandr@jkdevstudio.com](mailto:oleksandr@jkdevstudio.com)
-
-## 💡 Open to Collaboration
-
-I'm always interested in:
-- ✅ Open-source projects in PHP/Laravel ecosystem
-- ✅ SaaS product partnerships
-- ✅ DevOps & infrastructure challenges
-- ✅ Mentoring junior developers
+Building products, shipping code, solving problems.
 
 ---
 
-*Full Stack Developer | Laravel Specialist | DevOps Enthusiast | Building Products & Contributing to Open Source*
+### Stack
 
-*Last updated: 2026-03-02*
+```
+Backend        PHP · Laravel · WordPress · REST APIs · WebSockets · Queue Systems
+Frontend       JavaScript · Vue.js · React · Vite · Tailwind CSS · SCSS
+Data           MySQL · PostgreSQL · Redis · Eloquent · Query Optimization
+DevOps         Docker · CI/CD · Nginx · Linux · Cloudflare · SSH · Cron
+Tools          Git · Composer · NPM · WP-CLI · PHPUnit · Laravel Forge
+```
+
+### What I do
+
+- **Laravel** — SaaS architecture, multi-tenancy, Stripe/payment integrations, license management systems, API design, queue workers, task scheduling, event-driven workflows, Blade/Livewire, custom Artisan commands
+- **WordPress** — Elite Envato author. Custom theme & plugin development at scale, WooCommerce builds, Elementor, ACF, performance optimization, headless setups, server-level debugging
+- **DevOps** — Linux server management, Docker environments, Cloudflare WAF/DNS, deployment pipelines, monitoring, staging/production workflows
+
+### Currently building
+
+🔧 **[jkdevstudio Hub](https://hub.jkdevstudio.com)** — Laravel-based SaaS platform for managing premium web products across marketplaces. Multi-tenant, self-hosted capable, API-first.
+
+🎮 **Stealth startup** — Multiplayer interactive platform. Early stage. More soon.
+
+### Open source
+
+Projects are in active development. Public releases coming soon.
+
+### Connect
+
+[![Email](https://img.shields.io/badge/Email-oleksandr@jkdevstudio.com-black?style=flat-square)](mailto:oleksandr@jkdevstudio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-alexposlushnyak-black?style=flat-square&logo=github)](https://github.com/alexposlushnyak)
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-black?style=flat-square)](https://www.upwork.com/freelancers/alexposlushnyak)
+
+---
+
+<sub>Last updated: March 2026</sub>
