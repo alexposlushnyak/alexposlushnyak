@@ -23,7 +23,7 @@ Ten years of building for the web. I run **[jkdevstudio](https://jkdevstudio.com
 
 Everything after the sale runs through **[Hub](https://hub.jkdevstudio.com)**, a Laravel platform I built when spreadsheets stopped scaling. Details in the table below.
 
-Open for freelance work. Direct clients preferred, [Upwork](https://www.upwork.com/freelancers/alexposlushnyak) works too.
+Open for freelance work. Direct clients preferred, **[Upwork](https://www.upwork.com/freelancers/alexposlushnyak)** works too.
 
 <br>
 
