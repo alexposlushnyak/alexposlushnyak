@@ -4,29 +4,40 @@
 
 **Senior Full-Stack Developer**
 
-`Laravel` `WordPress` `DevOps` `SaaS`
+`Laravel` `WordPress` `SaaS` `DevOps`
 
-[![Email](https://img.shields.io/badge/oleksandr@jkdevstudio.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:oleksandr@jkdevstudio.com)
-[![Web](https://img.shields.io/badge/hub.jkdevstudio.com-black?style=flat-square&logo=google-chrome&logoColor=white)](https://hub.jkdevstudio.com)
-[![Upwork](https://img.shields.io/badge/Top%20Rated%20·%20100%25%20Success-black?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/alexposlushnyak)
+[![Email](https://img.shields.io/badge/oleksandr@jkdevstudio.com-0B0B0C?style=flat-square&logo=gmail&logoColor=white)](mailto:oleksandr@jkdevstudio.com)
+[![Studio](https://img.shields.io/badge/jkdevstudio.com-0B0B0C?style=flat-square&logo=google-chrome&logoColor=white)](https://jkdevstudio.com)
+[![Hub](https://img.shields.io/badge/hub.jkdevstudio.com-0B0B0C?style=flat-square&logo=laravel&logoColor=white)](https://hub.jkdevstudio.com)
+[![Upwork](https://img.shields.io/badge/Top%20Rated%20·%20100%25%20JSS-0B0B0C?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/alexposlushnyak)
+
+<br>
+
+*No AI wrote this README. It did, however, get interrogated about it twice.*
 
 </div>
 
----
+<br>
 
-10+ years building web products. Running **[jkdevstudio](https://hub.jkdevstudio.com)** - developing, maintaining and supporting **50+ premium products** across multiple Envato accounts and partner brands. Available for freelance - primarily direct clients, also via Upwork.
+Ten years of building for the web. I run **[jkdevstudio](https://jkdevstudio.com)**, a WordPress product studio: many premium themes and plugins across two Envato accounts and partner brands, around 3,000 customers, Elite Author status, and a support inbox where every reply comes from the person who wrote the code. Mostly because there is nobody else, but it does wonders for bug reports.
 
----
+Everything after the sale runs through **[Hub](https://hub.jkdevstudio.com)**, a Laravel platform I built when spreadsheets stopped scaling: license provisioning and activation, signed update delivery to customer sites, a documentation engine, a ticketing system, changelogs, and a public roadmap customers vote on. Multi-tenant, API-first, and self-hostable for partner brands.
 
-### 🛠 Stack
+Open for freelance work. Direct clients preferred, [Upwork](https://www.upwork.com/freelancers/alexposlushnyak) works too.
+
+<br>
+
+### Stack
 
 <table>
 <tr>
-<td><b>Backend</b></td>
+<td width="110"><b>Backend</b></td>
 <td>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-0B0B0C?style=flat-square"/>
 </td>
 </tr>
 <tr>
@@ -37,6 +48,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
 </td>
 </tr>
 <tr>
@@ -45,72 +57,85 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Algolia-003DFF?style=flat-square&logo=algolia&logoColor=white"/>
 </td>
 </tr>
 <tr>
-<td><b>DevOps</b></td>
+<td><b>Infra</b></td>
 <td>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/WP--CLI-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Payments</b></td>
+<td>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Creem_MoR-0B0B0C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Licensing_systems-0B0B0C?style=flat-square"/>
 </td>
 </tr>
 </table>
 
----
+<br>
 
-### ⚡ Expertise
+### What I actually do
 
 <details>
-<summary><b>Laravel & PHP</b> - SaaS architecture, API design, payment systems</summary>
+<summary><b>Laravel and PHP</b> — the Hub, SaaS plumbing, payments</summary>
 <br>
-Multi-tenancy, service/repository patterns, custom middleware, request validation pipelines. Stripe integration with webhook handlers, subscription billing, license provisioning. REST API design and versioning, rate limiting, API resources. Queue workers, job chaining, failed job handling, retry strategies. Task scheduling, event-driven architecture, observers, broadcasting via WebSockets. Custom Mailable classes, notification channels. Complex Eloquent relationships, query scoping, raw query optimization. Database migrations, seeders, factories. Custom Artisan commands. PHPUnit testing. Blade, Livewire, Inertia.js. Composer package development.
+
+Multi-tenancy, service and repository patterns, custom middleware, validation pipelines. Stripe with webhook handlers, subscription billing, license provisioning tied to real product delivery. REST API design with versioning, rate limiting, and resources. Queue workers, job chaining, retry strategies for the jobs that fail at 3 a.m. Event-driven architecture, observers, WebSocket broadcasting. Eloquent at the level where you stop trusting it and start reading the queries it generates. Migrations, seeders, factories, custom Artisan commands, PHPUnit. Blade, Livewire, Inertia. Composer package development.
+
 </details>
 
 <details>
-<summary><b>WordPress</b> - Elite Envato author, deep-level custom development</summary>
+<summary><b>WordPress</b> — Elite Envato author, the unglamorous deep end</summary>
 <br>
-Custom theme and plugin architecture from scratch. Advanced WooCommerce — custom checkout flows, payment gateway integrations, subscription logic, license key management, order workflow automation. Custom post types, taxonomies, REST API endpoints with auth. ACF Pro programmatic field registration. WP-CLI automation. Performance optimization — PHP-FPM tuning, object caching, transient API, query profiling. Security hardening, bot protection, WAF configuration. XML/JSON API import handlers with sync systems. Multisite. Headless setups with decoupled frontends.
+
+Theme and plugin architecture from scratch, including themes that pass WordPress.org/Envato review on the rules as written, which is its own genre of software. Advanced WooCommerce: custom checkout flows, payment gateway integrations, subscription logic, license key management, order automation. Custom post types, taxonomies, authenticated REST endpoints. Gutenberg block styles and patterns. ACF Pro programmatic registration. WP-CLI automation across a 9-site multisite network. Performance work that shows up in numbers: PHP-FPM tuning, object caching, transient strategy, query profiling. Security hardening, WAF rules, bot handling. XML and JSON import pipelines with sync. Headless setups when the project earns the complexity.
+
 </details>
 
 <details>
-<summary><b>DevOps & Infrastructure</b> - servers, deployment, monitoring</summary>
+<summary><b>Infrastructure</b> — the part nobody sees until it breaks</summary>
 <br>
-Linux administration (Ubuntu/Debian). Nginx/Apache config, SSL, reverse proxy. Cloudflare WAF rules, rate limiting, bot management, caching, DNS. Docker for local and production. CI/CD pipelines. SSH deployment workflows. Cron management and debugging. Staging/production environments. Database backup strategies. PHP-FPM slow log analysis, error tracking.
+
+Linux administration on Ubuntu and Debian. Nginx and Apache, SSL, reverse proxies. Cloudflare beyond the orange cloud: WAF rules, transform rules, rate limiting, cache strategy, DNS. Docker for local and production. CI/CD through a centralized GitHub Actions workflows repository that builds and ships every product from one place. Staging and production environments, database backup strategy, cron debugging, PHP-FPM slow log forensics.
+
 </details>
 
 <details>
-<summary><b>Frontend</b> - modern JS, animation systems, responsive UI</summary>
+<summary><b>Frontend</b> — fast, precise, no framework religion</summary>
 <br>
-Vue.js, React, vanilla ES6+. Vite.js, Webpack. Tailwind CSS, Bootstrap, SCSS/Sass, BEM. GSAP/TweenMax animations, Barba.js SPA transitions. AJAX interfaces, real-time UI. Cross-browser, responsive, pixel-precise layouts.
+
+Vue, React, vanilla ES6+. Vite and Webpack builds. Tailwind, Bootstrap, SCSS with BEM. GSAP animation systems, Barba.js transitions. AJAX-driven interfaces and real-time UI. Layouts that match the design file instead of approximating it.
+
 </details>
 
----
+<br>
 
-### 🚀 Currently Building
+### Currently building
 
-| Project | Description | Status |
-|---------|------------|--------|
-| **[jkdevstudio Hub](https://hub.jkdevstudio.com)** | Laravel SaaS - license provisioning, update delivery, docs engine, support system, roadmap voting. Multi-tenant, self-hosted option, API-first. | `active` |
-| **Stealth Startup** | Multiplayer interactive platform with real-time social features. | `early stage` |
-| **50+ Premium Products** | Active development and support across multiple Envato accounts and partner brands. Themes, plugins, templates with dedicated update pipelines. | `ongoing` |
+| Project | What it is | Status |
+|---------|-----------|--------|
+| **[Hub](https://hub.jkdevstudio.com)** | Laravel platform behind every jkdevstudio product: licensing, update delivery, docs engine, support, roadmap voting. Multi-tenant, API-first, self-hostable. | `active` |
+| **Verba** | Blog theme built for WordPress.org review. Free core, companion plugin, no bundled page builder. | `pre-release` |
+| **Stealth project** | Multiplayer browser platform with real-time social mechanics. More when it ships. | `early` |
+| **50+ products** | Ongoing development and support across two Envato accounts and partner brands, each with its own update pipeline. | `ongoing` |
 
----
-
-### 📊 GitHub Stats
-
-<div>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=alexposlushnyak&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e" height="150"/>
-
-</div>
-
----
+<br>
 
 <div align="center">
 
-**Ukraine** · Available for freelance
+<img src="https://github-readme-streak-stats.herokuapp.com?user=alexposlushnyak&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e" height="150"/>
+
+<br><br>
+
+**Ukraine** - Building through the outages
 
 </div>
