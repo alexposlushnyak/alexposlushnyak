@@ -23,7 +23,7 @@ Ten years of building for the web. I run **[jkdevstudio](https://jkdevstudio.com
 
 Everything after the sale runs through **[Hub](https://hub.jkdevstudio.com)**, a Laravel platform I built when spreadsheets stopped scaling. Details in the table below.
 
-Open for freelance work. Direct clients preferred, **[Upwork](https://www.upwork.com/freelancers/alexposlushnyak)** works too.
+Open for freelance work. Direct clients preferred, [Upwork](https://www.upwork.com/freelancers/alexposlushnyak) works too.
 
 <br>
 
@@ -44,7 +44,7 @@ Open for freelance work. Direct clients preferred, **[Upwork](https://www.upwork
 <td><b>Frontend</b></td>
 <td>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
@@ -57,7 +57,6 @@ Open for freelance work. Direct clients preferred, **[Upwork](https://www.upwork
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Algolia-003DFF?style=flat-square&logo=algolia&logoColor=white"/>
 </td>
 </tr>
 <tr>
@@ -69,14 +68,6 @@ Open for freelance work. Direct clients preferred, **[Upwork](https://www.upwork
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/WP--CLI-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td><b>Payments</b></td>
-<td>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-<img src="https://img.shields.io/badge/Creem_MoR-0B0B0C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Licensing_systems-0B0B0C?style=flat-square"/>
 </td>
 </tr>
 </table>
@@ -113,7 +104,7 @@ Linux administration on Ubuntu and Debian. Nginx and Apache, SSL, reverse proxie
 <summary><b>Frontend</b> — fast, precise, no framework religion</summary>
 <br>
 
-Vue, React, vanilla ES6+. Vite and Webpack builds. Tailwind, Bootstrap, SCSS with BEM. GSAP animation systems, Barba.js transitions. AJAX-driven interfaces and real-time UI. Layouts that match the design file instead of approximating it.
+React, TypeScript, vanilla ES6+. Vite and Webpack builds. Tailwind, Bootstrap, SCSS with BEM. GSAP animation systems, Barba.js transitions. AJAX-driven interfaces and real-time UI. Layouts that match the design file instead of approximating it.
 
 </details>
 
@@ -125,6 +116,7 @@ Vue, React, vanilla ES6+. Vite and Webpack builds. Tailwind, Bootstrap, SCSS wit
 |---------|-----------|--------|
 | **[jkdevstudio](https://jkdevstudio.com)** | The studio itself: premium WordPress themes and plugins, direct store, demos, the whole storefront. | `active` |
 | **[Hub](https://hub.jkdevstudio.com)** | Laravel platform behind every product: licensing, update delivery, docs engine, support, roadmap voting. Multi-tenant, API-first, self-hostable. | `active` |
+| **jkd-toolkit** | In-house framework powering every product. A year and counting of development. Contains roughly the entire functionality of the universe, minus the parts I have not needed yet. | `active` |
 | **Stealth project** | Multiplayer browser platform with real-time social mechanics. More when it ships. | `early` |
 | **10+ premium releases** | Scheduled before the end of the year. Coffee budget approved as infrastructure cost. | `in progress` |
 
