@@ -19,9 +19,9 @@
 
 <br>
 
-Ten years of building for the web. I run **[jkdevstudio](https://jkdevstudio.com)**, a WordPress product studio: many premium themes and plugins across two Envato accounts and partner brands, around 3,000 customers, Elite Author status, and a support inbox where every reply comes from the person who wrote the code. Mostly because there is nobody else, but it does wonders for bug reports.
+Ten years of building for the web. I run **[jkdevstudio](https://jkdevstudio.com)**, a WordPress product studio: premium themes and plugins, around 3,000 customers, Elite Author status, and a support inbox where every reply comes from the person who wrote the code. Mostly because there is nobody else, but it does wonders for bug reports.
 
-Everything after the sale runs through **[Hub](https://hub.jkdevstudio.com)**, a Laravel platform I built when spreadsheets stopped scaling: license provisioning and activation, signed update delivery to customer sites, a documentation engine, a ticketing system, changelogs, and a public roadmap customers vote on. Multi-tenant, API-first, and self-hostable for partner brands.
+Everything after the sale runs through **[Hub](https://hub.jkdevstudio.com)**, a Laravel platform I built when spreadsheets stopped scaling. Details in the table below.
 
 Open for freelance work. Direct clients preferred, [Upwork](https://www.upwork.com/freelancers/alexposlushnyak) works too.
 
@@ -97,7 +97,7 @@ Multi-tenancy, service and repository patterns, custom middleware, validation pi
 <summary><b>WordPress</b> — Elite Envato author, the unglamorous deep end</summary>
 <br>
 
-Theme and plugin architecture from scratch, including themes that pass WordPress.org/Envato review on the rules as written, which is its own genre of software. Advanced WooCommerce: custom checkout flows, payment gateway integrations, subscription logic, license key management, order automation. Custom post types, taxonomies, authenticated REST endpoints. Gutenberg block styles and patterns. ACF Pro programmatic registration. WP-CLI automation across a 9-site multisite network. Performance work that shows up in numbers: PHP-FPM tuning, object caching, transient strategy, query profiling. Security hardening, WAF rules, bot handling. XML and JSON import pipelines with sync. Headless setups when the project earns the complexity.
+Theme and plugin architecture from scratch, built to hold up under real customer installs rather than just the demo. Advanced WooCommerce: custom checkout flows, payment gateway integrations, subscription logic, license key management, order automation. Custom post types, taxonomies, authenticated REST endpoints. Gutenberg block styles and patterns. ACF Pro programmatic registration. WP-CLI automation across a 9-site multisite network. Performance work that shows up in numbers: PHP-FPM tuning, object caching, transient strategy, query profiling. Security hardening, WAF rules, bot handling. XML and JSON import pipelines with sync. Headless setups when the project earns the complexity.
 
 </details>
 
@@ -123,10 +123,10 @@ Vue, React, vanilla ES6+. Vite and Webpack builds. Tailwind, Bootstrap, SCSS wit
 
 | Project | What it is | Status |
 |---------|-----------|--------|
-| **[Hub](https://hub.jkdevstudio.com)** | Laravel platform behind every jkdevstudio product: licensing, update delivery, docs engine, support, roadmap voting. Multi-tenant, API-first, self-hostable. | `active` |
-| **Verba** | Blog theme built for WordPress.org review. Free core, companion plugin, no bundled page builder. | `pre-release` |
+| **[jkdevstudio](https://jkdevstudio.com)** | The studio itself: premium WordPress themes and plugins, direct store, demos, the whole storefront. | `active` |
+| **[Hub](https://hub.jkdevstudio.com)** | Laravel platform behind every product: licensing, update delivery, docs engine, support, roadmap voting. Multi-tenant, API-first, self-hostable. | `active` |
 | **Stealth project** | Multiplayer browser platform with real-time social mechanics. More when it ships. | `early` |
-| **50+ products** | Ongoing development and support across two Envato accounts and partner brands, each with its own update pipeline. | `ongoing` |
+| **10+ premium releases** | Scheduled before the end of the year. Coffee budget approved as infrastructure cost. | `in progress` |
 
 <br>
 
@@ -136,6 +136,6 @@ Vue, React, vanilla ES6+. Vite and Webpack builds. Tailwind, Bootstrap, SCSS wit
 
 <br><br>
 
-**Ukraine** - Building through the outages
+**Ukraine** · Building through the outages
 
 </div>
